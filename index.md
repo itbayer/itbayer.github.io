@@ -24,5 +24,7 @@ Die Seite ist nun unter <a href="http://itbayer.github.io/">http://itbayer.githu
 Es wird zwar keine vollständige Seite ausgeliefert, sondern nur der HTML Text der jweiligen Markdown
 Texte, aber es funktioniert.
 
+TEST der Begeistert.
+
 
 
