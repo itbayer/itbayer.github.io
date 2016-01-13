@@ -1,11 +1,9 @@
-
-
-
-
 ---
 layout: Seite
 title: Itbayer.GitHub.io
 ---
+
+
 
 <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
   
