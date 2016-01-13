@@ -1,8 +1,3 @@
----
-layout: Seite
-title: Startseite
----
-
 <!DOCTYPE html>
 <html>
 
@@ -14,6 +9,12 @@ title: Startseite
     <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
 
     <title>Itbayer.GitHub.io</title>
+
+---
+layout: Seite
+title: Startseite
+---
+
   </head>
 
   <body>
@@ -32,6 +33,7 @@ title: Startseite
     <!-- MAIN CONTENT -->
     
     # schau ma mal
+    
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
         <h3>
