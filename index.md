@@ -1,37 +1,15 @@
-<!DOCTYPE html>
-<html>
 
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="description" content="Itbayer.GitHub.io : ">
 
-    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
 
-    <title>Itbayer.GitHub.io</title>
 
 ---
 layout: Seite
-title: Startseite
+title: Itbayer.GitHub.io
 ---
 
-  </head>
-
-  <body>
-
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <a id="forkme_banner" href="https://github.com/itbayer">View on GitHub</a>
-
-          <h1 id="project_title">Itbayer.GitHub.io</h1>
-          <h2 id="project_tagline"></h2>
-
-        </header>
-    </div>
-
-    <!-- MAIN CONTENT -->
-    
+<link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+  
+   
     # schau ma mal
     
     <div id="main_content_wrap" class="outer">
@@ -63,14 +41,7 @@ title: Startseite
       </section>
     </div>
 
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
-      </footer>
-    </div>
+ 
 
     
 
-  </body>
-</html>
